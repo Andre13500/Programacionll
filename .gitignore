@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar carpetas de configuración de VS Code
+.vscode/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+#ignorar documentacion
+*.md
+*pdf
