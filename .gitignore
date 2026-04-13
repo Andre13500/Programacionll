@@ -10,4 +10,4 @@
 
 #ignorar documentacion
 *.md
-*pdf
+*.pdf
